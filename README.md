@@ -16,7 +16,8 @@ Things you have to know before running this program:
 - The file with all the querys must be in the same folder as the script files.
 - The prosite.dat file must be in the same folder as the script files.
 - The folder with all the genbank files must be in the same folder as the script files.
-- After running the program all the files created by it will be moved to the Results folder and the files will be named as the corresponding querys
+- After running the program all the files created by it will be moved to the Results folder and the files will be named as the corresponding querys.
+- Muscle must be installed before running the program.
 
 Have fun using this program, I hope it is useful.
 
